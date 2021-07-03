@@ -1,7 +1,12 @@
-#EXTINF:-1 tvg-id="BEIN2-M" tvg-name="LA: beIN SPORTS" tvg-logo="https://mms.businesswire.com/media/20190904005779/en/671600/23/beINSPORTS.jpg" group-title="Latino Sports",LA: beIN SPORTS
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/103
-#EXTINF:-1 tvg-id="ESPNDHD" tvg-name="LA: ESPN Deportes" tvg-logo="https://tmsimg.fancybits.co/assets/s25595_ll_h3_aa.png" group-title="Latino Sports",LA: ESPN Deportes
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/112
-http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/113
-#EXTINF:-1 tvg-id="DEPCRB" tvg-name="LA: FOX Deportes" tvg-logo="https://imgx.fubo.tv/station_logos/fox_deportes_c.png" group-title="Latino Sports",LA: FOX Deportes
-https://e4.cdnfoxtv.com/ingest013/38893.m3u8?sf=b2lXUTlYNmRSSg==&token=vEW7KOERufkM0cFnjtUSYQ&expires=1625346561&rnd=
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=648156,RESOLUTION=426x240,FRAME-RATE=25.000
+stream01/hdntl=exp=1625419756~acl=%2f*~data=hdntl~hmac=8b2b93ef78841f3741596bc6bf5abb273b8aa51841e2ee76b28da8726ff38900/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1097721,RESOLUTION=640x360,FRAME-RATE=25.000
+stream02/hdntl=exp=1625419756~acl=%2f*~data=hdntl~hmac=8b2b93ef78841f3741596bc6bf5abb273b8aa51841e2ee76b28da8726ff38900/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1547286,RESOLUTION=722x406,FRAME-RATE=25.000
+stream03/hdntl=exp=1625419756~acl=%2f*~data=hdntl~hmac=8b2b93ef78841f3741596bc6bf5abb273b8aa51841e2ee76b28da8726ff38900/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2446417,RESOLUTION=1280x720,FRAME-RATE=25.000
+stream04/hdntl=exp=1625419756~acl=%2f*~data=hdntl~hmac=8b2b93ef78841f3741596bc6bf5abb273b8aa51841e2ee76b28da8726ff38900/streamPlaylist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3008373,RESOLUTION=1920x1080,FRAME-RATE=25.000
+stream05/hdntl=exp=1625419756~acl=%2f*~data=hdntl~hmac=8b2b93ef78841f3741596bc6bf5abb273b8aa51841e2ee76b28da8726ff38900/streamPlaylist.m3u8
